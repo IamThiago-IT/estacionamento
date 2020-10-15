@@ -21,3 +21,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [HTML 5](https://html.com/)
 - [CSS 3](http://www.css3.info/)
 - [JAVASCRIPT](https://www.javascript.com/)
+
+## :rocket: Projeto
+## :rocket: Layout
+## :rocket: Como contribuir
+## :rocket: Licença
